@@ -1,0 +1,9 @@
+.vscode
+.ipynb_checkpoints
+__pycache__
+Thumbs.db
+_old/
+
+images/photos
+FDM/thirdparty
+Fritzing/parts
